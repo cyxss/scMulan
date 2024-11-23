@@ -14,9 +14,4 @@ Here is our codebase to reproduct the results and visualizations in the paper. T
 6. **HSC_Case**: These codes generated the HSCs with different gene perturbations and screened the fate-dicision TFs during the differentiation. Results can be found in the '**Identifying cell fate-driver regulators with scMulan**' part of the paper.
 
 # Requirements
-Here is some packages required to reproduce the experiments above.
-
-**Python**:
-
-
-**R**:
+The required packages of each experiment can be found in the README.md in the folder.
